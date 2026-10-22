@@ -1,3 +1,3 @@
 # Presentación de Milena Andrea Barrios Gallego
 
-En esta carpeta se publicarán las diapositivas de la sesión en PDF y, cuando corresponda, en su formato editable.
+En esta carpeta están las diapositivas de la primera sesión del 22 de octubre de 2026.
